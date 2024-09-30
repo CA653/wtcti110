@@ -6,7 +6,7 @@ After downloading I simply selected the option to clone and saved to the default
 
 # About Me
 ## My Interests, well, a few
-* I'm really into music, perhaps most but not all kinds. The list of generes I like is longer than the list of those I don't. I also enjoy dancing and playing music
+* I'm really into music, perhaps most but not all kinds. The list of generes I like is longer than the list of those I don't. I also enjoy dancing to and playing music
 ## Recommended Websites
 * [Pandora](https://www.Pandora.com)
 	* This is my go to site for streaming music. I know a lot of people are more into Spotify, but I guess I started on Pandora so early that its still my preferred music streaming service. 
