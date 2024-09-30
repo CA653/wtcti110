@@ -13,4 +13,4 @@ After downloading I simply selected the option to clone and saved to the default
 * [Music Map](https://www.musicmap.info)
 	* This site features a really visualization of the roots of various generes of music. It starts off with a broadview, but once you start to zoom in it begins to reveal the connections between various generes. I think it's rather interesting how some genres unexpectedly connect and that by clicking a genre title you can learn more about that particular genere of music.
 	
-[Pandora]:www.Pandora.com	
+[Pandora]: www.Pandora.com	
