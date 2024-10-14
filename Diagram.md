@@ -28,6 +28,8 @@ erDiagram
     Insurance-Policy {Excluded_Hazard Bets_With_Devil
     Property_Not_Covered Jonny_Soul}
 	
+	
+	
 	end 
 	
 	_**This is intended to be a fun way to illustrate the insurance quote to policy process while incorporating firsthand professional knowledge and music. The Diagram is representative of a client(Johnny) who is seeking to insure his property, a fiddle. He decided to insure his fiddle after accepting a Bet with the Devil. Johnny contacts and Agent who provides Johnny with a Quote for insurance and writes the Policy. The Policy is issued by the insurance company( The Georgia_Peach_Inc) but has certain exclusions; namely "Bets_With_Devil" are not covered.**_  
